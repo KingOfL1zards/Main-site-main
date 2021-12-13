@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    padding: 23px;
+    align-items: center;
+}
+.sear{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  
+}
+.searbtn1{
+    width: 55px;
+    height: 55px;
+    background: #DD4053;
+    border: none;
+    align-items: center;
+}
+.searbtn2{
+    width: 55px;
+    height: 55px;
+    background: #4AD295;
+    border: none;
+    align-items: center;
+}
+.inpu1{
+    width: 240px;
+    height: 55px;
+    text-align: center;
+    background: #EFF3F6;
+    border-radius: 2px;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: uppercase;
+    border: none;
+    
+}
+.inpu2{
+    width: 205px;
+    height: 55px;
+    text-align: center;
+    background: #EFF3F6;
+    border-radius: 2px;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: uppercase;
+    border: none;
+}
+.fo1{
+    display: flex;
+    align-items: center;
+    padding-right: 10px;
+}
+.fo2{
+    display: flex;
+    align-items: center;
+}
+.lang{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.pho{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.num{
+    margin-right: 20px;
+}
+.langu1{
+    border: none;
+    background-color: #fff;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center;
+    color: #1F1F1F;
+    width: 22px;
+    height: 21px;
+}
+.langu2{
+    border: none;
+    background-color: #4AD295;
+    color: #fff;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center;
+    width: 24px;
+    height: 21px;
+}
+.cur{
+    font-size: 15px;
+    line-height: 19px;
+    align-items: center;
+}
+.ico{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fac{
+    margin-right: 10px;
+    width: 20px;
+    height: 20px;
+}
+.ins{
+    margin-right: 10px;
+    width: 20px;
+    height: 20px;
+}
+.you{
+    width: 20px;
+    height: 20px;
+}
+.line{
+    width: 1px;
+    height: 40px;
+    background-color: grey;
+}
+.form{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.panel{
+    display: flex;
+    justify-content: space-around;
+    width: 1600px;
+    padding-top: 20px;
+}
+.lu{
+    margin-left: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+hr{
+    background-color: gray;
+}
+.ho{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
